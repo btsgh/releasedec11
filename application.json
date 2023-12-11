@@ -3,6 +3,14 @@
     {
       "id": "OAuth",
       "isDefault": true
+    },
+    {
+      "id": "Excel",
+      "isDefault": false
+    },
+    {
+      "id": "Firestore",
+      "isDefault": false
     }
   ],
   "viewMode": false,
