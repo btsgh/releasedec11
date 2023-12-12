@@ -11,6 +11,10 @@
     {
       "id": "Firestore",
       "isDefault": false
+    },
+    {
+      "id": "Hubspot",
+      "isDefault": false
     }
   ],
   "viewMode": false,
